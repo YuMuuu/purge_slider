@@ -6,6 +6,7 @@
   "author": "bun-bun",
   "license": "MIT",
   "devDependencies": {
-    "elm": "0.19"
+    "elm": "0.19",
+    "parcel": "^2.0.0-alpha.3.2"
   }
 }
