@@ -1,2 +1,8 @@
 elm-stuff/
 src/.vscode
+.parcel-cache/
+node_modules/
+yarn-error.log
+yarn.lock
+.cache/
+dist/
